@@ -3,10 +3,9 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Hello World
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      je suis une description.... 
     image: images/hero.png
     actions:
       - label: Learn More
